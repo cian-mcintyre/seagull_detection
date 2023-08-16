@@ -1,1 +1,2 @@
-web: parcel index.html
+web: npm run serve
+
