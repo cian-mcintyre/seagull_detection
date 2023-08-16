@@ -74,3 +74,4 @@ Use another YOLOv5 model.
 ## Reference
 
 https://github.com/ultralytics/yolov5
+# seagull_detector
